@@ -1,0 +1,26 @@
+{
+  "id": "NVGConfig",
+  "displayName": "NVG Config",
+  "description": "Improved NVG for Nuclear Option. Provides both built in and customizable NvG filters.",
+  "tags": ["QoL", "mod", "visual", "client side"],
+  "authors": ["Domiyaaa"],
+  "urls": [
+    {
+      "name": "info",
+      "url": "https://github.com/Domiyaaa/NVG-Config-mod"
+    }
+  ],
+  "githubOwner": "Domiyaaa",
+  "githubRepoName": "NVG-Config-mod",
+  "autoUpdateArtifacts": "True",
+  "artifacts": [
+    {
+      "type": "plugin",
+      "fileName": "NVG Config.dll",
+      "downloadUrl": "https://github.com/Domiyaaa/NVG-Config-mod/releases/download/v1.2.2/NVG%20Config.dll",
+      "gameVersion": "0.33",
+      "version": "1.2.2",
+      "category": "Release"
+    }
+  ]
+}
