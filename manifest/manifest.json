@@ -39,7 +39,7 @@
         }
       }
     ],
-    "downloadCount": 3538
+    "downloadCount": 3543
   },
   {
     "id": "AB-4X mod",
@@ -105,7 +105,7 @@
         "hash": "sha256:2d35e5185a375e3525ea68d91e1e782a99ed782f6e8bd20ac372baf40ede6957"
       }
     ],
-    "downloadCount": 1609
+    "downloadCount": 1615
   },
   {
     "id": "AIAircraftLimit",
@@ -138,7 +138,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 3593
+    "downloadCount": 3600
   },
   {
     "id": "AircraftWaypoints",
@@ -170,7 +170,73 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-AircraftWaypoints/releases/download/v2.1.0/AircraftWaypoints.zip"
       }
     ],
-    "downloadCount": 1679
+    "downloadCount": 1680
+  },
+  {
+    "id": "anomie.advancedcombatoverlay",
+    "displayName": "Advanced Combat Overlay",
+    "description": "This is the Advanced Combat Overlay over map thing in my TV Missile hud.... JUST that with the change that in the MFD it shows the missile track lost and ETA.",
+    "tags": [
+      "QoL",
+      "Utility"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+      }
+    ],
+    "authors": [
+      "Anomie"
+    ],
+    "githubOwner": "NotAnomie",
+    "githubRepoName": "NOMNOM-anomie-advancedcombatoverlay",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "type": "plugin",
+        "fileName": "anomie.advancedcombatoverlay_v1.0.0.zip",
+        "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-advancedcombatoverlay/releases/download/v1.0.0/anomie.advancedcombatoverlay_v1.0.0.zip",
+        "hash": "sha256:a612b997a57dd2d77d1402294e9b365e6689dc8366231abeb547a5fa3c3357da",
+        "gameVersion": "0.33",
+        "version": "1.0.0",
+        "category": "Release"
+      }
+    ],
+    "downloadCount": 0
+  },
+  {
+    "id": "anomie.cargorequest",
+    "displayName": "Anomie Cargo Request",
+    "description": "Anomie Cargo Request lets players call in AI-handled cargo logistics support, reducing the need for dedicated logistics players.",
+    "tags": [
+      "QoL",
+      "Utility"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+      }
+    ],
+    "authors": [
+      "Anomie"
+    ],
+    "githubOwner": "NotAnomie",
+    "githubRepoName": "NOMNOM-anomie-cargorequest",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "type": "plugin",
+        "fileName": "anomie.cargorequest_v1.6.8.zip",
+        "downloadUrl": "https://github.com/NotAnomie/NOMNOM-anomie-cargorequest/releases/download/v1.6.8/anomie.cargorequest_v1.6.8.zip",
+        "hash": "sha256:ccae5bcce592d9aea04fd0df1c5455cac50205a40d22dce1737d628f20e488e0",
+        "gameVersion": "0.33",
+        "version": "1.6.8",
+        "category": "Release"
+      }
+    ],
+    "downloadCount": 0
   },
   {
     "id": "aryx.f16m",
@@ -395,7 +461,7 @@
         }
       }
     ],
-    "downloadCount": 28908
+    "downloadCount": 28952
   },
   {
     "id": "aryx.mc260",
@@ -568,7 +634,7 @@
         }
       }
     ],
-    "downloadCount": 25649
+    "downloadCount": 25684
   },
   {
     "id": "aryx.mig15",
@@ -650,7 +716,7 @@
         }
       }
     ],
-    "downloadCount": 12391
+    "downloadCount": 12413
   },
   {
     "id": "aryx.rah72",
@@ -745,7 +811,7 @@
         }
       }
     ],
-    "downloadCount": 7710
+    "downloadCount": 7811
   },
   {
     "id": "AtomicFramework",
@@ -884,7 +950,7 @@
         "hash": "sha256:583955d56dd06aa4a0232fb17bd9846cf0dd876c5a9c8472810e4d6d54c40a33"
       }
     ],
-    "downloadCount": 2672
+    "downloadCount": 2677
   },
   {
     "id": "blueprinter.kestrel",
@@ -928,7 +994,7 @@
         }
       }
     ],
-    "downloadCount": 14981
+    "downloadCount": 15018
   },
   {
     "id": "blueprinter.ternion",
@@ -982,7 +1048,7 @@
         }
       }
     ],
-    "downloadCount": 14328
+    "downloadCount": 14376
   },
   {
     "id": "bote",
@@ -1108,7 +1174,7 @@
         }
       }
     ],
-    "downloadCount": 17024
+    "downloadCount": 17036
   },
   {
     "id": "CameraPresets",
@@ -1182,7 +1248,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1551
+    "downloadCount": 1554
   },
   {
     "id": "ChicanePusherLab",
@@ -1283,7 +1349,7 @@
         "dependencies": []
       }
     ],
-    "downloadCount": 430
+    "downloadCount": 437
   },
   {
     "id": "ChicaneWingDelete",
@@ -1344,7 +1410,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 789
+    "downloadCount": 792
   },
   {
     "id": "com.basicGrowl",
@@ -1521,7 +1587,7 @@
         ]
       }
     ],
-    "downloadCount": 680
+    "downloadCount": 681
   },
   {
     "id": "com.JUSTJ7780.globalsoundreplacerno",
@@ -1576,7 +1642,7 @@
         ]
       }
     ],
-    "downloadCount": 1751
+    "downloadCount": 1756
   },
   {
     "id": "com.nikkorap.blueprinter",
@@ -1649,7 +1715,7 @@
         "hash": "sha256:c5acfa50210aca58ff226b9a07c82f11aed14553c97a31b8d5042862ab0ee1eb"
       }
     ],
-    "downloadCount": 33805
+    "downloadCount": 33847
   },
   {
     "id": "com.nikkorap.EditorPlus",
@@ -1732,7 +1798,7 @@
         "hash": "sha256:e75784cccff75ed0d24dd539185b4af315e5798ffc04b509716dae5dd19d9681"
       }
     ],
-    "downloadCount": 1376
+    "downloadCount": 1378
   },
   {
     "id": "dev.dikka.nuclearmenubackground",
@@ -1768,7 +1834,7 @@
         "downloadUrl": "https://github.com/dikkadev/NuclearMenuBackground/releases/download/v0.1.0/NuclearMenuBackground-v0.1.0.7z"
       }
     ],
-    "downloadCount": 167
+    "downloadCount": 168
   },
   {
     "id": "dev.dikka.nuclearunits",
@@ -1805,6 +1871,171 @@
       }
     ],
     "downloadCount": 349
+  },
+  {
+    "id": "emi.shoshanas.ballisticstrikecaller",
+    "displayName": "Shoshanas Strategic Strike Console",
+    "description": "Shoshanas Balliistic Strike console is a Mod where you can launch a type of payloads as hypersonic or custom MT Nukes with a fee.",
+    "tags": [
+      "QoL",
+      "Utility"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+      }
+    ],
+    "authors": [
+      "Anomie"
+    ],
+    "githubOwner": "NotAnomie",
+    "githubRepoName": "NOMNOM-emi-shoshanas-ballisticstrikecaller",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "type": "plugin",
+        "fileName": "emi.shoshanas.ballisticstrikecaller_v2.1.7.zip",
+        "downloadUrl": "https://github.com/NotAnomie/NOMNOM-emi-shoshanas-ballisticstrikecaller/releases/download/v2.1.7/emi.shoshanas.ballisticstrikecaller_v2.1.7.zip",
+        "hash": "sha256:b748fb7d8dd805013a274d9b50d144fd4f553cf952246ae764d165dd742874d7",
+        "gameVersion": "0.33",
+        "version": "2.1.7",
+        "category": "Release"
+      }
+    ],
+    "downloadCount": 0
+  },
+  {
+    "id": "emi.shoshanas.hostwebpanel",
+    "displayName": "Shoshanas Host Web Panel",
+    "description": "Shoshanas Host Web Panel is a mod to edit money/Airframes on players in realtime.",
+    "tags": [
+      "QoL",
+      "Utility"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+      }
+    ],
+    "authors": [
+      "Anomie"
+    ],
+    "githubOwner": "NotAnomie",
+    "githubRepoName": "NOMNOM-emi-shoshanas-hostwebpanel",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "type": "plugin",
+        "fileName": "emi.shoshanas.hostwebpanel_v0.5.5.zip",
+        "downloadUrl": "https://github.com/NotAnomie/NOMNOM-emi-shoshanas-hostwebpanel/releases/download/v0.5.5/emi.shoshanas.hostwebpanel_v0.5.5.zip",
+        "hash": "sha256:dcb631eabda5092adbd07c6e2cf54abde1098b52c135afbdcf7123a0fe194a0e",
+        "gameVersion": "0.33",
+        "version": "0.5.5",
+        "category": "Release"
+      }
+    ],
+    "downloadCount": 0
+  },
+  {
+    "id": "emi.shoshanas.maptargetselectguard",
+    "displayName": "Shoshanas Map Target Select Guard",
+    "description": "Ever had the problem that you select 2 targets at the same time if i you use the keybind on the MAP? DON'T BE AFRAID ANYMORE this mod is all you need.. i fixed it with literally 5 minutes of time and 57 lines of code.",
+    "tags": [
+      "QoL",
+      "Utility"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+      }
+    ],
+    "authors": [
+      "Anomie"
+    ],
+    "githubOwner": "NotAnomie",
+    "githubRepoName": "NOMNOM-emi-shoshanas-maptargetselectguard",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "type": "plugin",
+        "fileName": "emi.shoshanas.maptargetselectguard_v1.0.0.zip",
+        "downloadUrl": "https://github.com/NotAnomie/NOMNOM-emi-shoshanas-maptargetselectguard/releases/download/v1.0.0/emi.shoshanas.maptargetselectguard_v1.0.0.zip",
+        "hash": "sha256:4f9788976e8dfedd34eceb9735215110b6de6e7b603a6f29424275a4670aeb6c",
+        "gameVersion": "0.33",
+        "version": "1.0.0",
+        "category": "Release"
+      }
+    ],
+    "downloadCount": 0
+  },
+  {
+    "id": "emi.shoshanas.spawntool",
+    "displayName": "Shoshanas Spawn Tool",
+    "description": "Shoshanas Spawn Tool is a mod that enables you to spawn units on the ground, air and sea.",
+    "tags": [
+      "QoL",
+      "Utility"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+      }
+    ],
+    "authors": [
+      "Anomie"
+    ],
+    "githubOwner": "NotAnomie",
+    "githubRepoName": "NOMNOM-emi-shoshanas-spawntool",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "type": "plugin",
+        "fileName": "emi.shoshanas.spawntool_v1.6.11.zip",
+        "downloadUrl": "https://github.com/NotAnomie/NOMNOM-emi-shoshanas-spawntool/releases/download/v1.6.11/emi.shoshanas.spawntool_v1.6.11.zip",
+        "hash": "sha256:f80d205f333eb3a181892f161df060a8bfa04979126f61d61ea9159941863943",
+        "gameVersion": "0.33",
+        "version": "1.6.11",
+        "category": "Release"
+      }
+    ],
+    "downloadCount": 0
+  },
+  {
+    "id": "emi.shoshanas.togglehandbrake",
+    "displayName": "Shoshanas Toggle Handbrake",
+    "description": "Shoshanas Toggle Handbreak rebinds the handbreak to a toggle instead of a hold action",
+    "tags": [
+      "QoL",
+      "Utility"
+    ],
+    "urls": [
+      {
+        "name": "info",
+        "url": "https://github.com/NotAnomie/Nomnom-Mod-Releases/releases/tag/v1.6.11"
+      }
+    ],
+    "authors": [
+      "Anomie"
+    ],
+    "githubOwner": "NotAnomie",
+    "githubRepoName": "NOMNOM-emi-shoshanas-togglehandbrake",
+    "autoUpdateArtifacts": "True",
+    "artifacts": [
+      {
+        "type": "plugin",
+        "fileName": "emi.shoshanas.togglehandbrake_v1.0.0.zip",
+        "downloadUrl": "https://github.com/NotAnomie/NOMNOM-emi-shoshanas-togglehandbrake/releases/download/v1.0.0/emi.shoshanas.togglehandbrake_v1.0.0.zip",
+        "hash": "sha256:ac9074f63dfb9388cdb8c95260a67c9d8b295bca72810c269fb1c432fe8a7532",
+        "gameVersion": "0.33",
+        "version": "1.0.0",
+        "category": "Release"
+      }
+    ],
+    "downloadCount": 0
   },
   {
     "id": "F16VaporTuner",
@@ -1848,7 +2079,7 @@
         ]
       }
     ],
-    "downloadCount": 1690
+    "downloadCount": 1698
   },
   {
     "id": "FrontlineMap",
@@ -1906,7 +2137,7 @@
         "downloadUrl": "https://github.com/9138noms/FrontlineMap/releases/download/v1.2.1/FrontlineMap.dll"
       }
     ],
-    "downloadCount": 7119
+    "downloadCount": 7134
   },
   {
     "id": "galaxy2_voice",
@@ -2014,7 +2245,7 @@
         ]
       }
     ],
-    "downloadCount": 445
+    "downloadCount": 447
   },
   {
     "id": "IbisDoorGunToggle",
@@ -2129,7 +2360,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 786
+    "downloadCount": 791
   },
   {
     "id": "IbisPowerFix",
@@ -2152,6 +2383,15 @@
     "githubRepoName": "IbisPowerFix",
     "autoUpdateArtifacts": "True",
     "artifacts": [
+      {
+        "fileName": "IbisPowerFix-1.8.9.zip",
+        "version": "1.8.9",
+        "category": "release",
+        "type": "plugin",
+        "gameVersion": "0.33",
+        "downloadUrl": "https://github.com/Rendresen/IbisPowerFix/releases/download/v1.8.9/IbisPowerFix-1.8.9.zip",
+        "hash": "sha256:a0f81b2432520349f05971ac9fd5f68eab6dbc21cbd7208acbdee66dbd681946"
+      },
       {
         "fileName": "IbisPowerFix-1.8.8.zip",
         "version": "1.8.8",
@@ -2198,7 +2438,7 @@
         "hash": "sha256:10641980a6526e6a49c83b12b8b6acfcb526135e27c7d32d7885b698fd87d86f"
       }
     ],
-    "downloadCount": 197
+    "downloadCount": 205
   },
   {
     "id": "jester_voice",
@@ -2331,7 +2571,7 @@
         }
       }
     ],
-    "downloadCount": 16502
+    "downloadCount": 16515
   },
   {
     "id": "klawshout_voice",
@@ -2398,7 +2638,7 @@
         "hash": "sha256:1cb21af1577180fcaec008f70bc9ca2e191de79335fed9817c64463e2d5b4a8c"
       }
     ],
-    "downloadCount": 178
+    "downloadCount": 192
   },
   {
     "id": "KR-EW.67",
@@ -2431,7 +2671,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2768
+    "downloadCount": 2771
   },
   {
     "id": "LaserRocketFix",
@@ -2463,7 +2703,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 4146
+    "downloadCount": 4151
   },
   {
     "id": "LiveryManager",
@@ -2614,7 +2854,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1488
+    "downloadCount": 1495
   },
   {
     "id": "LocalizationPatch.Belarusian",
@@ -4111,7 +4351,7 @@
         ]
       }
     ],
-    "downloadCount": 730
+    "downloadCount": 731
   },
   {
     "id": "LocalizationPatch.Spanish",
@@ -4514,7 +4754,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-CustomMapLoader/releases/download/v3.0.0/MapLoader_v3.0.0.zip"
       }
     ],
-    "downloadCount": 1370
+    "downloadCount": 1371
   },
   {
     "id": "MFDCustomizer",
@@ -4817,7 +5057,7 @@
         ]
       }
     ],
-    "downloadCount": 12393
+    "downloadCount": 12397
   },
   {
     "id": "no-autopilot-mod",
@@ -5147,7 +5387,7 @@
         "hash": "sha256:f526584e61ed46c25d10a0b46319f9e901fc5917d73dfcccc3aebb5ee0acaa5c"
       }
     ],
-    "downloadCount": 13610
+    "downloadCount": 13619
   },
   {
     "id": "NO-MissionMenuSearch",
@@ -5218,7 +5458,7 @@
         ]
       }
     ],
-    "downloadCount": 507
+    "downloadCount": 508
   },
   {
     "id": "NOBlackBox",
@@ -5272,7 +5512,7 @@
         ]
       }
     ],
-    "downloadCount": 3753
+    "downloadCount": 3757
   },
   {
     "id": "NOControllerVibration",
@@ -5368,7 +5608,7 @@
         "hash": "sha256:0d65fdb6fb55601346750c0e9251bcd14e52a631bf4fa540aba835d781401d74"
       }
     ],
-    "downloadCount": 330
+    "downloadCount": 331
   },
   {
     "id": "NOCursorOverride",
@@ -5502,7 +5742,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 52
+    "downloadCount": 53
   },
   {
     "id": "NOFrameLimiter",
@@ -5541,7 +5781,7 @@
         ]
       }
     ],
-    "downloadCount": 2026
+    "downloadCount": 2031
   },
   {
     "id": "NOLiveryPlus",
@@ -5711,7 +5951,7 @@
         ]
       }
     ],
-    "downloadCount": 190
+    "downloadCount": 191
   },
   {
     "id": "NOWinWingBridge",
@@ -5750,7 +5990,7 @@
         ]
       }
     ],
-    "downloadCount": 70
+    "downloadCount": 71
   },
   {
     "id": "NOX",
@@ -5879,7 +6119,7 @@
         ]
       }
     ],
-    "downloadCount": 6524
+    "downloadCount": 6531
   },
   {
     "id": "Nuclear-Option-Mod-WingmanVisual",
@@ -5930,7 +6170,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 2524
+    "downloadCount": 2531
   },
   {
     "id": "NuclearOption-MFDBlockBlast",
@@ -5997,7 +6237,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 141
+    "downloadCount": 142
   },
   {
     "id": "NuclearOptionVRFix",
@@ -6112,7 +6352,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 191
+    "downloadCount": 192
   },
   {
     "id": "pixy_voice",
@@ -6265,7 +6505,7 @@
         ]
       }
     ],
-    "downloadCount": 13373
+    "downloadCount": 13390
   },
   {
     "id": "RepairProgress",
@@ -6305,7 +6545,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-RepairProgress/releases/download/v1.0.0/RepairProgress.zip"
       }
     ],
-    "downloadCount": 4323
+    "downloadCount": 4328
   },
   {
     "id": "RITA_RVWS",
@@ -6366,7 +6606,7 @@
         ]
       }
     ],
-    "downloadCount": 355
+    "downloadCount": 358
   },
   {
     "id": "RuntimeUnityEditor",
@@ -6399,7 +6639,7 @@
         "hash": "sha256:28596c0f68258f3e4d024c0ed89c8b5653fd86b1e619f945f9f7080ee6859734"
       }
     ],
-    "downloadCount": 122444
+    "downloadCount": 122450
   },
   {
     "id": "shoshanas.tvmissilehud",
@@ -6432,7 +6672,7 @@
         "category": "Release"
       }
     ],
-    "downloadCount": 0
+    "downloadCount": 3
   },
   {
     "id": "skyeye_voice",
@@ -6525,7 +6765,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-SmokeTrail/releases/download/v2.1.0/SmokeTrail.dll"
       }
     ],
-    "downloadCount": 752
+    "downloadCount": 753
   },
   {
     "id": "SplitThrottle",
@@ -6599,7 +6839,7 @@
         "hash": "sha256:6d08fbb38d93e4a04c0f4530de491cc0b57a77fd3e0b201b7d6eb9f93302218d"
       }
     ],
-    "downloadCount": 3426
+    "downloadCount": 3432
   },
   {
     "id": "TargetCamControl",
@@ -6669,7 +6909,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 1580
+    "downloadCount": 1583
   },
   {
     "id": "TernionVaporTuner",
@@ -6741,7 +6981,7 @@
         ]
       }
     ],
-    "downloadCount": 821
+    "downloadCount": 826
   },
   {
     "id": "ThirdFaction",
@@ -6888,7 +7128,7 @@
         "downloadUrl": "https://github.com/9138noms/ThirdFaction/releases/download/v1.0.0/ThirdFaction.dll"
       }
     ],
-    "downloadCount": 2701
+    "downloadCount": 2705
   },
   {
     "id": "ThirdPersonHudMapPipFix",
@@ -6978,7 +7218,7 @@
         "downloadUrl": "https://github.com/9138noms/UnitCopyPaste/releases/download/v1.0.0/UnitCopyPaste.dll"
       }
     ],
-    "downloadCount": 499
+    "downloadCount": 500
   },
   {
     "id": "Unrestricted-Weapons",
@@ -7019,7 +7259,7 @@
         ]
       }
     ],
-    "downloadCount": 1581
+    "downloadCount": 1588
   },
   {
     "id": "uuvr",
@@ -7082,7 +7322,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-VehicleControl/releases/download/v2.3.2/VehicleControl.zip"
       }
     ],
-    "downloadCount": 3728
+    "downloadCount": 3732
   },
   {
     "id": "WeatherController",
@@ -7113,7 +7353,7 @@
         "downloadUrl": "https://github.com/9138noms/NuclearOption-WeatherController/releases/download/v3.0.0/WeatherController_v3.0.0.zip"
       }
     ],
-    "downloadCount": 1617
+    "downloadCount": 1619
   },
   {
     "id": "WSOYappinator",
@@ -7146,7 +7386,7 @@
         "hash": null
       }
     ],
-    "downloadCount": 6934
+    "downloadCount": 6945
   },
   {
     "id": "YawOnMouse",

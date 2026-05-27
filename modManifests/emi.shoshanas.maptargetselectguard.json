@@ -1,7 +1,7 @@
 {
   "id": "emi.shoshanas.maptargetselectguard",
   "displayName": "Shoshanas Map Target Select Guard",
-  "description": "Ever had the problem that you select 2 targets at the same time if i you use the keybind on the MAP? DON\u0027T BE AFRAID ANYMORE this mod is all you need.. i fixed it with literally 5 minutes of time and 57 lines of code.",
+  "description": "Ever had the problem that you select 2 targets at the same time if i you use the keybind on the MAP? DON'T BE AFRAID ANYMORE this mod is all you need.. i fixed it with literally 5 minutes of time and 57 lines of code.",
   "tags": [
     "QoL",
     "Utility"
@@ -28,5 +28,6 @@
       "version": "1.0.0",
       "category": "Release"
     }
-  ]
+  ],
+  "downloadCount": 0
 }
