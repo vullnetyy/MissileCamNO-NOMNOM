@@ -26,6 +26,19 @@
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
+      "fileName": "Aryx.MC-260.Chimera_1.1.1.zip",
+      "version": "1.1.1",
+      "category": "release",
+      "type": "addon",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/Aryx3D/Aryx-MC260-Chimera/releases/download/1.1.1/Aryx.MC-260.Chimera_1.1.1.zip",
+      "hash": "sha256:475e358968697e64a4fcd207db32380188ad5eb1bdacd773a0df123b2ccb79ba",
+      "extends": {
+        "id": "com.nikkorap.blueprinter",
+        "version": "1.8.17"
+      }
+    },
+    {
       "fileName": "Aryx.MC-260.Chimera_1.1.0.zip",
       "version": "1.1.0",
       "category": "release",
@@ -182,5 +195,5 @@
       }
     }
   ],
-  "downloadCount": 33151
+  "downloadCount": 33367
 }
