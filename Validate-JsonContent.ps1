@@ -9,7 +9,7 @@ if (!$(Test-Path $Path))
 function LogError()
 {
     Param([string]$errorString)
-    Write-Error $errorString
+    Write-Host $errorString
     Exit 1
 }
 function Validate-ArtifactURL
@@ -152,7 +152,7 @@ try
     Write-Host "Validating Id is Unique: $($parsedMod.id): $isIdUnique"
     if (!$isIdUnique)
     {
-        Write-Error $("Id $($parsedMod.id) is NOT UNIQUE!")
+        Write-Host $("Id $($parsedMod.id) is NOT UNIQUE!")
         Exit 1
     }
     Write-Host "Validating urls $($parsedMod.urls): $(Validate-urls -urls $parsedMod.urls)"
@@ -167,14 +167,14 @@ try
         Write-Host "Validating fileName: $($result)"
         if (!$result)
         {
-            Write-Error $("$($artifact.fileName) IS INVALID!")
+            Write-Host $("$($artifact.fileName) IS INVALID!")
             Exit 1
         }
         $result = Validate-ArtifactURL -URL $artifact.downloadUrl
         Write-Host "Validating artifactUrl: $($result)"
         if (!$result)
         {
-            Write-Error $("$($artifact.downloadUrl) IS INVALID!")
+            Write-Host $("$($artifact.downloadUrl) IS INVALID!")
             Exit 1
         }
         #Write-Host "Validating fileHash: $(Validate-FileHashFormat -hashString $artifact.hash)"
@@ -182,14 +182,14 @@ try
         Write-Host "Validating version: $($result)"
         if (!$result)
         {
-            Write-Error $("$($artifact.version) IS INVALID!")
+            Write-Host $("$($artifact.version) IS INVALID!")
             Exit 1
         }
         $result = Validate-Version -versionString $artifact.gameVersion
         Write-Host "Validating gameVersion: $($result)"
         if (!$result)
         {
-            Write-Error $("$($artifact.gameVersion) IS INVALID!")
+            Write-Host $("$($artifact.gameVersion) IS INVALID!")
             Exit 1
         }        
         if ($artifact.dependencies)
