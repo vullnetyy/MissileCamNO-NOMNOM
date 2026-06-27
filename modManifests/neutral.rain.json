@@ -16,14 +16,14 @@
     "Neutral Observer"
   ],
   "githubOwner": "SonPamungkas",
-  "githubRepoName": "NOMNOM-neutral-rain",
+  "githubRepoName": "rain-mod",
   "autoUpdateArtifacts": "True",
   "artifacts": [
     {
       "type": "plugin",
       "fileName": "neutral.rain_v0.1.0.zip",
-      "downloadUrl": "https://github.com/SonPamungkas/NOMNOM-neutral-rain/releases/download/v0.1.0/neutral.rain_v0.1.0.zip",
-      "hash": "sha256:0cc302cce5380e7e90b112d7282a481c080241a3637ac12791481c06fdc9a025",
+      "downloadUrl": "https://github.com/SonPamungkas/rain-mod/releases/download/0.2/neutral.rain_v0.1.0.zip",
+      "hash": "sha256:5f08d5dbf6d70e304c03b9ffa81dde2896174f60df7436dbf18cf5fb041f47ff",
       "gameVersion": "0.33.3",
       "version": "0.1.0",
       "category": "Release"
