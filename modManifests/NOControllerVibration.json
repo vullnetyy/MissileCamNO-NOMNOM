@@ -21,6 +21,15 @@
   "artifacts": [
     {
       "fileName": "NOCV.zip",
+      "version": "0.33.4.1",
+      "category": "release",
+      "type": "plugin",
+      "gameVersion": "0.33",
+      "downloadUrl": "https://github.com/pauel3312/NOControllerVibration/releases/download/v0.33.4.1/NOCV.zip",
+      "hash": "sha256:4d695429c7bc1f142ee20fd9d6688508f89a408ee0d5f3fab2bb7bb99a7f33cc"
+    },
+    {
+      "fileName": "NOCV.zip",
       "version": "0.33.4.0",
       "category": "release",
       "type": "plugin",
